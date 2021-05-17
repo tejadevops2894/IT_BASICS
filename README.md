@@ -28,6 +28,21 @@
 6.iostat
 7.stab
 
+1.4 Basic Troubleshooting Commands
+
+1. ifconfig
+2. PING
+3. TRACE ROUTE
+4. NETSTAT
+5. DIG
+6. NSLOOK UP
+7. ROUTE
+8. HOST
+9. ARP
+10. ETHTOOL
+11. IWCONFIG
+12. HOSTNAME
+13. GUI TOOL SYSTEM-CONFIG
 
 2. Basics of BASH/PYTHON
 
@@ -114,4 +129,3 @@
 
 #S.a.a.S based monitoring
 #Cloud Logging
-
